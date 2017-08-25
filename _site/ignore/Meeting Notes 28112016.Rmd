@@ -1,0 +1,44 @@
+---
+title: "Discuission"
+author: "Paul Oldham"
+date: "28 November 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## WP1
+
+1. Concept of the commons in international law. Porblem of confusion between political and legal categories. 
+
+2. The current process on marine genetic resources - participating on 1 or 2 of the next meetings. Has extablished dialogue with the foreign ministry.
+
+Polar perspective needs to incorporated in WP1. Looking also at Norweigan laws and research. 
+
+[I also think we might need to talk to researchers more... as what became clear from our earlier work is that  ]
+
+## WP2 
+
+1. Need to talk to the UK as well
+
+We have a large dataset on marine genetic resources. I need to open up the data and looking at ways of sharing that with people. Maybe using Tableau or Vantage Point Reader... There is a lot there to be looked at. 
+
+Publishing the Valuing the Deep Study as either an electronic book or journal article
+
+Updating the existing data and extending it (notably focusing on new data but also improving geographic mapping of research locations). Then publishing that. 
+
+Pushing a little more on the arctic and antarctica... a need for improvement on data capture. 
+
+WELL, THERE IS BASIC TAXONOMIC AND BIODIVERSITY RESEARCH. BUT THERE IS ALSO THE BLURRING. UNDERSTANDING THE 
+
+POTENTIAL VALUE RATHER THAN ACTUAL VALUE. MARINE DEBATES ARE BASED ON FIGURES ON ECONOMIC VALUE THAT DO NOT SEEM TO ME TO HAVE CLEAR TRANSPARENT FOUNDATIONS.
+
+What is the composition of the cruises (are they mainly international collaborations) - going into WP3. 
+
+One of the key issues that came out of the Valuing the Deep project was that the ABNJ discussions are attempting to regulate or govern anticipated economic value rather than actual economic value. That is economic value lies mainly in the future [and as far as we could tell existing market estimates may well have been made up]. We therefore started to focus on the concept of anticipatory governance but without saying a great deal on what that might actually mean... except that the question could shift towards appropriate ways to promote the generation of value and the purposes for which value generated might be used under a new Treaty arrangement. 
+
+I do the training on Patent Analytics for WIPO for developing countries and also work on patent landscapes. Looking at collaboration with the World Intellectual Property Organization
+
+ARCTIC AND ANTARCTICA

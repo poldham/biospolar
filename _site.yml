@@ -1,0 +1,6 @@
+name: "biospolar"
+navbar:
+  title: "Biospolar"
+  left:
+    - text: "Home"
+      href: index.html

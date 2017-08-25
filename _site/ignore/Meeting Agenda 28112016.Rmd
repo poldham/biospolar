@@ -1,0 +1,38 @@
+---
+title: "Untitled"
+author: "Paul Oldham"
+date: "28 November 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Dear all,
+
+Based on discussions with Tore, we propose the following agenda for the meeting:
+
+
+1200  Short round of presentation of participants and highlight the most relevant prior research results in the field.
+
+1230  Preparation of research plan we go through the WPs and discuss time line and priorities the first year. It is crucial that WP 2 starts as soon as possible since WP 3 and 4 depends to the findings.
+        Paul will be with us on skype for the time needed, and Kristin and I will meet with Paul in Mexico during COP to pin down further details. What will be other research tasks for 2017?
+
+路        This will include identifying other technology programs in the NFR for collabortion/fact-finding. 
+
+路        As part of this work we will need to develop a plan for publication (who, what, when and where)
+
+
+1630 Cross cutting issues for the project are 
+
+路        Making a dissemination strategy, jf. prosjekt璪eskrivelsens pkt 5 This will include 
+路        Yearly seminares 
+路        Participation in public debates (Hva, hvordan osv)
+
+
+I wish you all a warm welcome to Polh酶gda!
+
+See you soon!
+Morten
+

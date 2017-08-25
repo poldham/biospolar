@@ -1,0 +1,22 @@
+---
+title: "Untitled"
+author: "Paul Oldham"
+date: "25/08/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Resources
+
+Resources are housed mainly in the GitHub repository here:
+
+1. Vantage Point Reader
+2. Vantage Point Reader Video
+3. marine_litigated.vpt (documents that have been opposed or litigated)
+4. norway (patent documents involving either an inventor or applicant from Norway or that have a priority (filing number) from Norway)
+5. nordic. As for norway but for all nordic countries (excluding the Aaland Islands that did not reveal any results)
+
+Dropbox
